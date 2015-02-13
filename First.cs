@@ -11,6 +11,7 @@ namespace ConsoleApplication48
             Console.WriteLine("Hello, Moon");
             Console.WriteLine("Hello, Jupiter");
             Console.WriteLine("Hello, Sun");
+            Console.WriteLine("Hello, Moon 2");
         }
     }
 }
